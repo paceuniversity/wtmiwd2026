@@ -1,6 +1,6 @@
 <img width="500" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/banner.png"> <img width="200" alt="banner event" src="https://github.com/scharffc/wtmiwd2024/blob/main/buildwithai.png">
 
-# International Women Day (IWD) 2025, A [Women Techmakers]() Event, @Pace University, New York
+# International Women Day (IWD) 2026 @Pace University, New York
 
 ### Break the Pattern with AI
 
