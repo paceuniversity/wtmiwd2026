@@ -6,7 +6,7 @@
 
 ### April 10th, 2026, 10 am to 4 pm
 
-### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu), [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence), GDG on Campus @ Pace University and Women in Tech @ Pace University
+### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu), [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence), [GDG on Campus @ Pace University](https://www.linkedin.com/company/gdg-on-campus-at-pace-university/) and [Women in Tech @ Pace University](https://www.instagram.com/pacewit/)
 
 <img width="100" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/seidenberglogo.png">
 
