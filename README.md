@@ -39,4 +39,5 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 #IWD26 #WTMImpactTheFuture #WomenInTech #BuildwithAI
 
-Short link: 
+Short link: https://tinyurl.com/iwd2026web  
+
