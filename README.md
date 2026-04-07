@@ -6,9 +6,7 @@
 
 ### April 10th, 2026, 10 am to 4 pm
 
-### In collaboration with [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu), [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence), [GDG on Campus @ Pace University](https://www.linkedin.com/company/gdg-on-campus-at-pace-university/) and [Women in Tech @ Pace University](https://www.instagram.com/pacewit/)
-
-<img width="100" alt="betterpic logo" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/seidenberglogo.png">
+### [Pace University Seidenberg School of CSIS](https://seidenberg.pace.edu), [Pace AI Lab](https://seidenberg.pace.edu/artificial-intelligence), [GDG on Campus @ Pace University](https://www.linkedin.com/company/gdg-on-campus-at-pace-university/) and [Women in Tech @ Pace University](https://www.instagram.com/pacewit/)
 
 # Location
 
@@ -16,24 +14,21 @@
 
 # Registration
 
-Register [here]() before April 3rd.
+Register [here](https://luma.com/16jfn19c) before April 3rd.
 
 # Agenda
 
-Available [here]()
+Available [here](https://tinyurl.com/iwd2026agenda)
 
-# Speakers / Organizers
+# Speakers 
 
-<img width="200" alt="Olga" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/olga.jpg">  
+<img width="200" alt="" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/olga.jpg">  
 
-# Slides & Notebooks
+# Organizers
 
-* [Introduction]() Dr. Christelle Scharff
+# Slides 
 
-# Gen AI Game
-
-* [Description of the Game](https://docs.google.com/presentation/d/1yKZ6STsCU3i2C8w71fwoA98Fqogud0WKufKduKXXM8Y/edit?usp=sharing) Yousuf Afreen, Om Gaikhe
-  * Submit [here](https://bit.ly/iwd2024competition)
+* [Introduction](https://docs.google.com/presentation/d/1BvEpziGegNrV8BjtsYbcDZxbqXLzyLjH/present) Dr. Christelle Scharff
 
 # Pictures
 
