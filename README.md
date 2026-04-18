@@ -53,8 +53,14 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 * Tackling Disparities in America with AI. Damina Townes (MS Health Information Systems)
 * Cloakd: A Local Middleware for AI Privacy. Aditya Sheripally (MS Data Science)
 
-<
-
+<img width="1080" height="1080" alt="abi" src="https://github.com/user-attachments/assets/12ca0627-105c-48bd-90fc-d5300c16655c" />
+<img width="1080" height="1080" alt="nobby" src="https://github.com/user-attachments/assets/eb434655-5ac7-4008-a005-9bfe0e036abc" />
+<img width="1080" height="1080" alt="neelima" src="https://github.com/user-attachments/assets/fd518463-931d-4c99-8a2f-ed4f1fec2192" />
+<img width="1080" height="1080" alt="soumya" src="https://github.com/user-attachments/assets/97d726dd-2873-4710-9fb1-351fd20167ad" />
+<img width="1080" height="1080" alt="jeytha" src="https://github.com/user-attachments/assets/48ef63b8-34b5-42cc-b7f5-240afc25aeba" />
+<img width="1080" height="1080" alt="monalisa" src="https://github.com/user-attachments/assets/51466089-f80f-4ee4-a9cf-ac149b67e612" />
+<img width="1080" height="1080" alt="aditya" src="https://github.com/user-attachments/assets/fc750cd8-6280-481a-bf11-31f8daab1bac" />
+<img width="1080" height="1080" alt="damina" src="https://github.com/user-attachments/assets/c41f752e-1023-4619-ade7-8e0c61182a7d" />
 
 # Fashion Show Creative Director
 
@@ -67,6 +73,11 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="mohammed" src="https://github.com/user-attachments/assets/fcc94749-d106-43dd-b960-278f9a606bf0" />
 <img width="200" alt="brittany" src="https://github.com/user-attachments/assets/9fb39703-923b-4f1b-ab60-27a06f507184" />
 <img width="200" alt="anel" src="https://github.com/user-attachments/assets/53220f26-1afb-4d9a-bf0d-5a736e59ebc0" />
+<img width="200" alt="aidan" src="https://github.com/user-attachments/assets/9cb80be5-0e2e-46bb-bada-dea7eb42956d" />
+
+# Photographer
+
+<img width="1080" height="1080" alt="aidan" src="https://github.com/user-attachments/assets/40b8fde8-3ba7-41cd-9c56-cbd171f761b8" />
 
 # Volunteers
 
