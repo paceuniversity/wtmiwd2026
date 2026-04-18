@@ -103,6 +103,10 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="IMG_0888" src="https://github.com/user-attachments/assets/a8ceaef8-9366-4190-96af-d07586e8e7c3" />
 <img width="200" alt="IMG_0699" src="https://github.com/user-attachments/assets/fb9f9835-c16d-49f2-b580-fc92ec2ffebd" />
 
+# Fashion Show
+
+https://github.com/user-attachments/assets/d80a806f-a8cb-468c-b204-c365a4d05ce4
+
 # Social Media
 
 #IWD26 #WTMImpactTheFuture #WomenInTech #BuildwithAI
