@@ -37,7 +37,7 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="begimai" src="https://github.com/user-attachments/assets/97316912-e334-4151-9d8c-0eeb4021c98f" />
 <img width="200" alt="sarah" src="https://github.com/user-attachments/assets/f7da531d-c4f7-4cba-87ee-89308f7d5a8f" />
 <img width="200" alt="mohammed" src="https://github.com/user-attachments/assets/cfb48209-0bf2-41f5-b56b-15ca2a35cb1c" />
-<img width="1080" height="1080" alt="okan" src="https://github.com/user-attachments/assets/a98bd462-9e24-4bfd-8452-4720d60d12cf" />
+<img width="200" alt="okan" src="https://github.com/user-attachments/assets/a98bd462-9e24-4bfd-8452-4720d60d12cf" />
 
 # Lightning Coach
 
@@ -53,7 +53,7 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 * Tackling Disparities in America with AI. Damina Townes (MS Health Information Systems)
 * Cloakd: A Local Middleware for AI Privacy. Aditya Sheripally (MS Data Science)
 
-<img width="1080" height="1080" alt="Damina Townes(1)" src="https://github.com/user-attachments/assets/d8065e39-6ce2-44a6-b76c-17ff120b82f7" />
+<
 
 
 # Fashion Show Creative Director
