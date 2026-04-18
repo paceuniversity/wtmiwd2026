@@ -105,7 +105,7 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 # Fashion Show
 
-https://github.com/user-attachments/assets/d80a806f-a8cb-468c-b204-c365a4d05ce4
+https://github.com/user-attachments/assets/c9f54288-2d76-468b-8a76-08723b76e1bc
 
 # Social Media
 
