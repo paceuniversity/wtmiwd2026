@@ -43,6 +43,14 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 # Lighting Talks
 
+* Before You Watch: An AI Approach to Movie Content Warnings. Abi Keegan (MS Data Science), Janvi Rautela (MS Data Science), Nobby Sibanda (MS Data Science)
+* Beyond Compliance: A Dollar-Cost Framework for AI Fairness in Mortgage Lending. Neelima Verma (MS Data Science)
+* RAG Personal Model in the Cloud. Soumya Sri Perepu (PhD Computer Science)
+* From Reactive Security to Predictive Defense in Industrial Systems. Jeytha Sahana Venkatesh Babu (MS Cybersecurity)
+* From Static AI to Adaptive, Explainable Intelligence. Monalisa Mondal (MS Computer Science)
+* Tackling Disparities in America with AI. Damina Townes (MS Health Information Systems)
+* Cloakd: A Local Middleware for AI Privacy. Aditya Sheripally (MS Data Science)
+
 # Fashion Show Creative Director
 
 <img width="200" alt="brittany" src="https://github.com/user-attachments/assets/e5e0de59-484a-47f2-a0dd-c578afe30609" />
