@@ -22,8 +22,6 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 # Speakers 
 
-<img width="200" alt="" src="https://github.com/scharffc/wtmiwd2024/blob/main/images/olga.jpg">  
-
 <img width="200" alt="christelle" src="https://github.com/user-attachments/assets/8c5e22b1-4ffe-4c58-8ce8-69ca8869c7f4" />
 <img width="200" alt="abishek" src="https://github.com/user-attachments/assets/32132968-380c-43a9-9d9f-c7a69d78d447" />
 <img width="200" alt="rebecca" src="https://github.com/user-attachments/assets/a4923784-1593-443d-88d3-f1ebbc9b8be2" />
