@@ -23,8 +23,8 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 # Speakers 
 
 <img width="200" alt="christelle" src="https://github.com/user-attachments/assets/8c5e22b1-4ffe-4c58-8ce8-69ca8869c7f4" />
-<img width="200" alt="abishek" src="https://github.com/user-attachments/assets/32132968-380c-43a9-9d9f-c7a69d78d447" />
 <img width="200" alt="rebecca" src="https://github.com/user-attachments/assets/a4923784-1593-443d-88d3-f1ebbc9b8be2" />
+<img width="200" alt="abishek" src="https://github.com/user-attachments/assets/32132968-380c-43a9-9d9f-c7a69d78d447" />
 <img width="200" alt="daniella" src="https://github.com/user-attachments/assets/703098fb-245a-4efc-a859-b7cb2af8b226" />
 <img width="200" alt="kartik" src="https://github.com/user-attachments/assets/6e8cd92b-3eb3-4b6f-92e5-854e4eb2a284" />
 <img width="200" alt="chanel" src="https://github.com/user-attachments/assets/2bbab080-c480-42e1-9c93-118b7676f2ad" />
@@ -35,11 +35,14 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="sara" src="https://github.com/user-attachments/assets/0c9f20d0-23b1-47b8-8416-5e66a1a7bb9b" />
 <img width="200" alt="soheyla" src="https://github.com/user-attachments/assets/028baa4a-75ad-41a5-8b7c-e8cb010b7c4e" />
 <img width="200" alt="begimai" src="https://github.com/user-attachments/assets/97316912-e334-4151-9d8c-0eeb4021c98f" />
-<img width="1080" height="1080" alt="sarah" src="https://github.com/user-attachments/assets/f7da531d-c4f7-4cba-87ee-89308f7d5a8f" />
+<img width="200" alt="sarah" src="https://github.com/user-attachments/assets/f7da531d-c4f7-4cba-87ee-89308f7d5a8f" />
 
 # Organizers
 
+
 # Volunteers
+
+
 
 # Slides 
 
