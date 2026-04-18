@@ -93,15 +93,15 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 * Building a Multi-Agentic Ecosystem using Google AI Stack. Kartik Derasari, Solutions Engineering Lead at Persistent, Google Developer Expert
   * [Google Codelab - Building a Multi-Agent System](https://codelabs.developers.google.com/codelabs/production-ready-ai-roadshow/1-building-a-multi-agent-system/building-a-multi-agent-system#0)
 * [Architecting Your Future: Building an AI-Powered Career Path](https://docs.google.com/document/d/1RZQAtMtPNWEtwDoUrtZb0oEFX1wweEjyz5-RyIuBx10/edit?tab=t.4bjpah3u7ijg). Chanel Power, Senior Machine Learning Engineer, Founder and CEO of Mentor Me Collective
-* [Meta Glasses](). 
+* [Meta Glasses]() Okan Vural, Pace University. 
 
 # Pictures
 
 <img width="200" alt="38572A0C-8504-4CE9-8A5D-D5E9DD93D1C0_1_105_c" src="https://github.com/user-attachments/assets/380db481-4544-418f-9b21-e585476a4802" />
-<img width="200" alt="IMG_0699" src="https://github.com/user-attachments/assets/fb9f9835-c16d-49f2-b580-fc92ec2ffebd" />
 <img width="200" alt="IMG_0874" src="https://github.com/user-attachments/assets/d9b87d76-a4aa-4b6e-997a-64e632791ac8" />
 <img width="200" alt="IMG_0846" src="https://github.com/user-attachments/assets/19dd9fc8-1e69-400d-b582-4a95ee1c3df9" />
 <img width="200" alt="IMG_0888" src="https://github.com/user-attachments/assets/a8ceaef8-9366-4190-96af-d07586e8e7c3" />
+<img width="200" alt="IMG_0699" src="https://github.com/user-attachments/assets/fb9f9835-c16d-49f2-b580-fc92ec2ffebd" />
 
 # Social Media
 
