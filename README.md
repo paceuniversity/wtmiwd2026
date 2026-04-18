@@ -37,9 +37,11 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="begimai" src="https://github.com/user-attachments/assets/97316912-e334-4151-9d8c-0eeb4021c98f" />
 <img width="200" alt="sarah" src="https://github.com/user-attachments/assets/f7da531d-c4f7-4cba-87ee-89308f7d5a8f" />
 
-# Presentation Coach
+# Lightning Coach
 
 <img width="200" alt="mariefrance" src="https://github.com/user-attachments/assets/fab33d2d-deab-436a-98c1-152f2aa67e9a" />
+
+# Lighting Talks
 
 # Fashion Show Creative Director
 
