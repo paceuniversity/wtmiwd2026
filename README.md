@@ -38,7 +38,7 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="kazi" src="https://github.com/user-attachments/assets/90b1f25d-90fe-48bb-837c-c2b0293d4403" />
 
 
-<img width="200"" alt="mariefrance" src="https://github.com/user-attachments/assets/1a3d4ceb-f902-4c8d-a0f3-e565679283f8" />
+
 
 <img width="200" alt="lola" src="https://github.com/user-attachments/assets/1b323f33-a0d5-4c83-8447-56cbcb122526" />
 
