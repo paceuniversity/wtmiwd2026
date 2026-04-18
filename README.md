@@ -53,14 +53,14 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 * Tackling Disparities in America with AI. Damina Townes (MS Health Information Systems)
 * Cloakd: A Local Middleware for AI Privacy. Aditya Sheripally (MS Data Science)
 
-<img width="1080" height="1080" alt="abi" src="https://github.com/user-attachments/assets/12ca0627-105c-48bd-90fc-d5300c16655c" />
-<img width="1080" height="1080" alt="nobby" src="https://github.com/user-attachments/assets/eb434655-5ac7-4008-a005-9bfe0e036abc" />
-<img width="1080" height="1080" alt="neelima" src="https://github.com/user-attachments/assets/fd518463-931d-4c99-8a2f-ed4f1fec2192" />
-<img width="1080" height="1080" alt="soumya" src="https://github.com/user-attachments/assets/97d726dd-2873-4710-9fb1-351fd20167ad" />
-<img width="1080" height="1080" alt="jeytha" src="https://github.com/user-attachments/assets/48ef63b8-34b5-42cc-b7f5-240afc25aeba" />
-<img width="1080" height="1080" alt="monalisa" src="https://github.com/user-attachments/assets/51466089-f80f-4ee4-a9cf-ac149b67e612" />
-<img width="1080" height="1080" alt="aditya" src="https://github.com/user-attachments/assets/fc750cd8-6280-481a-bf11-31f8daab1bac" />
-<img width="1080" height="1080" alt="damina" src="https://github.com/user-attachments/assets/c41f752e-1023-4619-ade7-8e0c61182a7d" />
+<img width="200" alt="abi" src="https://github.com/user-attachments/assets/12ca0627-105c-48bd-90fc-d5300c16655c" />
+<img width="200" alt="nobby" src="https://github.com/user-attachments/assets/eb434655-5ac7-4008-a005-9bfe0e036abc" />
+<img width="200" alt="neelima" src="https://github.com/user-attachments/assets/fd518463-931d-4c99-8a2f-ed4f1fec2192" />
+<img width="200" alt="soumya" src="https://github.com/user-attachments/assets/97d726dd-2873-4710-9fb1-351fd20167ad" />
+<img width="200" alt="jeytha" src="https://github.com/user-attachments/assets/48ef63b8-34b5-42cc-b7f5-240afc25aeba" />
+<img width="200" alt="monalisa" src="https://github.com/user-attachments/assets/51466089-f80f-4ee4-a9cf-ac149b67e612" />
+<img width="200" alt="aditya" src="https://github.com/user-attachments/assets/fc750cd8-6280-481a-bf11-31f8daab1bac" />
+<img width="200" alt="damina" src="https://github.com/user-attachments/assets/c41f752e-1023-4619-ade7-8e0c61182a7d" />
 
 # Fashion Show Creative Director
 
