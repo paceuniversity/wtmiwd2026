@@ -37,8 +37,21 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 <img width="200" alt="begimai" src="https://github.com/user-attachments/assets/97316912-e334-4151-9d8c-0eeb4021c98f" />
 <img width="200" alt="sarah" src="https://github.com/user-attachments/assets/f7da531d-c4f7-4cba-87ee-89308f7d5a8f" />
 
+# Presentation Coach
+
+<img width="200" alt="mariefrance" src="https://github.com/user-attachments/assets/fab33d2d-deab-436a-98c1-152f2aa67e9a" />
+
+# Fashion Show Creative Director
+
+<img width="200" alt="brittany" src="https://github.com/user-attachments/assets/e5e0de59-484a-47f2-a0dd-c578afe30609" />
+
 # Organizers
 
+<img width="200" alt="sarah" src="https://github.com/user-attachments/assets/502428ae-a8b8-496c-8673-dc1b35bd596a" />
+<img width="200" alt="abi" src="https://github.com/user-attachments/assets/adb8b593-9afe-4d31-96e7-6ed3e6405259" />
+<img width="200" alt="mohammed" src="https://github.com/user-attachments/assets/fcc94749-d106-43dd-b960-278f9a606bf0" />
+<img width="200" alt="brittany" src="https://github.com/user-attachments/assets/9fb39703-923b-4f1b-ab60-27a06f507184" />
+<img width="200" alt="anel" src="https://github.com/user-attachments/assets/53220f26-1afb-4d9a-bf0d-5a736e59ebc0" />
 
 # Volunteers
 
