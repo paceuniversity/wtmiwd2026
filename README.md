@@ -77,7 +77,7 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 # Photographer
 
-<img width="1080" height="1080" alt="aidan" src="https://github.com/user-attachments/assets/40b8fde8-3ba7-41cd-9c56-cbd171f761b8" />
+<img width="200" alt="aidan" src="https://github.com/user-attachments/assets/40b8fde8-3ba7-41cd-9c56-cbd171f761b8" />
 
 # Volunteers
 
