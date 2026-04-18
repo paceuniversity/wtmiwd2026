@@ -89,10 +89,11 @@ Available [here](https://tinyurl.com/iwd2026agenda)
 
 # Slides 
 
-* [Introduction](https://docs.google.com/presentation/d/1BvEpziGegNrV8BjtsYbcDZxbqXLzyLjH/present) Organizers
+* [Introduction](https://docs.google.com/presentation/d/1BvEpziGegNrV8BjtsYbcDZxbqXLzyLjH/present) by the organizers and partners
 * Building a Multi-Agentic Ecosystem using Google AI Stack. Kartik Derasari, Solutions Engineering Lead at Persistent, Google Developer Expert
   * [Google Codelab - Building a Multi-Agent System](https://codelabs.developers.google.com/codelabs/production-ready-ai-roadshow/1-building-a-multi-agent-system/building-a-multi-agent-system#0)
 * [Architecting Your Future: Building an AI-Powered Career Path](https://docs.google.com/document/d/1RZQAtMtPNWEtwDoUrtZb0oEFX1wweEjyz5-RyIuBx10/edit?tab=t.4bjpah3u7ijg). Chanel Power, Senior Machine Learning Engineer, Founder and CEO of Mentor Me Collective
+* [Meta Glasses](). 
 
 # Pictures
 
